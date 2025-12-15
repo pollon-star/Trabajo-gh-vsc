@@ -1,5 +1,3 @@
 # Trabajo-gh-vsc
 aaaaaaaaa
-Pedro Alejandro
-15/12/2025
-a
+Branca nova creada per a proves
